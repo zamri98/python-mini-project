@@ -1,1 +1,1 @@
-# python-tkinter-project
+# python-mini-project
